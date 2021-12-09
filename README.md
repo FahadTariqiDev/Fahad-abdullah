@@ -1,5 +1,5 @@
-# Fahad-abdullah
-
+<!-- # Fahad-abdullah
+<!--
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm []()!
 ## I'm a Developer!
 - 👀 I’m interested in Full Stack Web Developers
@@ -36,8 +36,4 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-#### 📫 How to Reach me:
-You can find me on the following linkedIn platforms or send me an email:
-* 👔 [LinkedIn](https://www.linkedin.com/in/abdullah-alhussein1)
-* ✉️ [abdullah30alhussein@gmail.com](mailto:abdullah30alhussein@gmail.com)
-
+ -->
